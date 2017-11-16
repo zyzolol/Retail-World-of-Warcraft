@@ -1,0 +1,131 @@
+------------------------------------------------------------------------
+r21 | tehKD | 2017-08-31 13:57:17 -0500 (Thu, 31 Aug 2017) | 1 line
+Changed paths:
+   M /trunk/GryphonsRemover.toc
+
+7.3 TOC Bump
+------------------------------------------------------------------------
+r20 | tehKD | 2017-03-20 11:29:38 -0500 (Mon, 20 Mar 2017) | 1 line
+Changed paths:
+   M /trunk/GryphonsRemover.toc
+
+7.2 TOC Bump
+------------------------------------------------------------------------
+r19 | tehkd | 2016-10-26 08:02:55 -0500 (Wed, 26 Oct 2016) | 1 line
+Changed paths:
+   M /trunk/GryphonsRemover.toc
+
+7.1 TOC Bump
+------------------------------------------------------------------------
+r18 | tehkd | 2016-06-26 08:39:43 -0500 (Sun, 26 Jun 2016) | 1 line
+Changed paths:
+   M /trunk/GryphonsRemover.toc
+
+Legion Beta .toc update
+------------------------------------------------------------------------
+r17 | tehkd | 2015-06-25 07:58:26 -0500 (Thu, 25 Jun 2015) | 1 line
+Changed paths:
+   M /trunk/GryphonsRemover.toc
+
+6.2 TOC Bump
+------------------------------------------------------------------------
+r16 | tehkd | 2015-02-24 07:28:33 -0600 (Tue, 24 Feb 2015) | 1 line
+Changed paths:
+   M /trunk/GryphonsRemover.toc
+
+6.1 TOC Bump
+------------------------------------------------------------------------
+r15 | tehkd | 2014-10-14 08:05:59 -0500 (Tue, 14 Oct 2014) | 1 line
+Changed paths:
+   M /trunk/GryphonsRemover.toc
+
+WoD TOC bump
+------------------------------------------------------------------------
+r14 | tehkd | 2014-08-09 07:38:19 -0500 (Sat, 09 Aug 2014) | 1 line
+Changed paths:
+   M /trunk/GryphonsRemover.toc
+
+WoD Beta TOC Bump
+------------------------------------------------------------------------
+r13 | tehkd | 2013-09-10 07:29:33 -0500 (Tue, 10 Sep 2013) | 1 line
+Changed paths:
+   M /trunk/GryphonsRemover.toc
+
+5.4 TOC Bump
+------------------------------------------------------------------------
+r12 | tehkd | 2013-05-21 08:30:07 -0500 (Tue, 21 May 2013) | 1 line
+Changed paths:
+   M /trunk/GryphonsRemover.toc
+
+TOC Bump for 5.3
+------------------------------------------------------------------------
+r11 | tehkd | 2013-03-05 18:26:19 -0600 (Tue, 05 Mar 2013) | 1 line
+Changed paths:
+   M /trunk/GryphonsRemover.toc
+
+TOC Bump
+------------------------------------------------------------------------
+r10 | tehkd | 2012-11-29 04:12:08 -0600 (Thu, 29 Nov 2012) | 1 line
+Changed paths:
+   M /trunk/GryphonsRemover.toc
+
+5.1 TOC Update
+------------------------------------------------------------------------
+r9 | tehkd | 2012-08-28 12:03:53 -0500 (Tue, 28 Aug 2012) | 1 line
+Changed paths:
+   M /trunk/GryphonsRemover.toc
+
+4.0 .toc update
+------------------------------------------------------------------------
+r8 | tehkd | 2011-11-29 09:45:04 -0600 (Tue, 29 Nov 2011) | 1 line
+Changed paths:
+   M /trunk/GryphonsRemover.toc
+
+4.3 .toc Update
+------------------------------------------------------------------------
+r7 | tehkd | 2011-10-01 07:11:16 -0500 (Sat, 01 Oct 2011) | 1 line
+Changed paths:
+   M /trunk/GryphonsRemover.toc
+
+.toc Update for the PTR
+------------------------------------------------------------------------
+r6 | tehkd | 2011-06-27 15:09:14 -0500 (Mon, 27 Jun 2011) | 1 line
+Changed paths:
+   M /trunk/GryphonsRemover.toc
+
+4.2 .toc Update
+------------------------------------------------------------------------
+r5 | tehkd | 2011-04-28 13:44:50 -0500 (Thu, 28 Apr 2011) | 1 line
+Changed paths:
+   M /trunk/GryphonsRemover.toc
+
+4.1 .toc Update
+------------------------------------------------------------------------
+r4 | tehkd | 2011-03-28 04:59:27 -0500 (Mon, 28 Mar 2011) | 1 line
+Changed paths:
+   M /trunk/GryphonsRemover.toc
+
+4.1 toc Update
+------------------------------------------------------------------------
+r3 | schr0nz | 2010-10-11 10:19:27 -0500 (Mon, 11 Oct 2010) | 1 line
+Changed paths:
+   M /trunk/GryphonsRemover.toc
+
+.toc Update for 4.0.1
+------------------------------------------------------------------------
+r2 | schr0nz | 2010-09-13 09:05:19 -0500 (Mon, 13 Sep 2010) | 1 line
+Changed paths:
+   A /trunk/GryphonsRemover.toc
+   A /trunk/GryphonsRemover.xml
+
+Cataclysm Beta .toc update
+------------------------------------------------------------------------
+r1 | root | 2008-10-01 12:03:11 -0500 (Wed, 01 Oct 2008) | 1 line
+Changed paths:
+   A /branches
+   A /tags
+   A /trunk
+
+"gryphons-remover/mainline: Initial Import"
+------------------------------------------------------------------------
+

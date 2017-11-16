@@ -1,0 +1,12 @@
+tag v2.7
+a456a4bbe99f6cdc25c64f0e48eaec71acac05fc
+Jordon <jordon@localhost>
+2016-09-18 12:00:57 -0700
+
+Tagging as v2.7
+
+
+--------------------
+
+Jordon:
+	- update for Legion

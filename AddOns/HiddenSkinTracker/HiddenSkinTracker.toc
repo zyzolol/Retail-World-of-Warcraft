@@ -1,0 +1,6 @@
+## Interface: 70100
+## Title: Hidden Skin Tracker
+## Author: Molurax-Frostmourne
+## Version: 1.04
+## Notes: A lightweight progress tracker for artifact hidden skin recolours.
+HiddenSkinTracker.lua

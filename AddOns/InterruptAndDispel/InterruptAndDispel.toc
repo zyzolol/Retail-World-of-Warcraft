@@ -1,0 +1,9 @@
+## Interface: 70300
+## Title: Interrupt and Dispel Announcer
+## Version: 7.3
+## Notes: Announce your interrupts, dispels, purges, spellsteals, etc.
+## Author: FunkyCold
+## SavedVariables: IAD_On, IAD_AnnounceTo, IAD_InterruptOn, IAD_DispelOn, IAD_DispelFriendly
+
+InterruptAndDispel.lua
+InterruptAndDispel.xml

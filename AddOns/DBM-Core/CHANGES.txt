@@ -1,0 +1,115 @@
+Changes since tag 7.3.7
+
+commit dd4a2071e9b649715be5d8370b0bc52366212912
+Author: subversion <svn@deadlybossmods.com>
+Date:   Thu Nov 16 00:13:20 2017 +0100
+
+    Omega via svn r16857:
+    Lower antispam for vilemus, since tanks still can?\226?\128?\153t figure out how to do fight right, so spam the hell out of them again to taunt
+    Also increase wipe time for mod for the corpse cannon shit show that the boss is because tanks can?\226?\128?\153t do a simple mechanic correctly.
+
+commit 25b8457903646f308984c1eb825879d34182853a
+Author: subversion <svn@deadlybossmods.com>
+Date:   Mon Nov 13 11:00:34 2017 +0100
+
+    Omega via svn r16856:
+    Cleanup
+
+commit fbccd99c47ab33f615ddd5aa8b83ef653ae70f59
+Author: subversion <svn@deadlybossmods.com>
+Date:   Mon Nov 13 03:56:03 2017 +0100
+
+    Omega via svn r16855:
+    partially revert default sound paths. lets not jump to conclusions yet. Plus 8.0 is a better time to refresh settings than 7.3
+
+commit 5e7a8541fded5a064540bcec90d3fdeb97bc6a54
+Author: subversion <svn@deadlybossmods.com>
+Date:   Mon Nov 13 03:46:05 2017 +0100
+
+    Omega via svn r16854:
+    disable ShowTestSpecialWarning on sliders, cause they tend to spam in those events.
+
+commit 7650fae80752ecc11a713e3ec58d238b9b12ece9
+Author: subversion <svn@deadlybossmods.com>
+Date:   Sun Nov 12 22:56:49 2017 +0100
+
+    Omega via svn r16853:
+    embed media DBM core uses regularly that won?\226?\128?\153t be available in classic client data set
+
+commit b83788d130639812236efba37ff73809d897d30f
+Author: subversion <svn@deadlybossmods.com>
+Date:   Sat Nov 11 01:58:47 2017 +0100
+
+    Omega via svn r16852:
+    Some comments. Stats panel truly is the most cancerous pile of ugly code in all of DBM though. It truly needs a total rewrite. Every new difficulty has to be hacked in. There are still unsupported combinations that will again need injecting when added (such as timewalking cataclysm raid, TW Mists raid, etc)
+
+commit bf09f3c5b1da40bf83c73c3da84024eaa5916f3a
+Author: subversion <svn@deadlybossmods.com>
+Date:   Sat Nov 11 01:50:01 2017 +0100
+
+    Omega via svn r16851:
+    Correctly handle Classic 10/25 player zones that have timewalking difficulty (ie ulduar)
+
+commit 694082fc31eabd07949240fa9b42bff0ebced606
+Author: subversion <svn@deadlybossmods.com>
+Date:   Fri Nov 10 08:03:51 2017 +0100
+
+    Omega via svn r16850:
+    Change stack high to not start untl 6 now, up from 4 do to nerfs
+
+commit 7cdaedb80c30b8f9064687a5f9279d59353ed2d3
+Author: subversion <svn@deadlybossmods.com>
+Date:   Thu Nov 9 09:58:57 2017 +0100
+
+    Omega via svn r16849:
+    User friendly error with new note share permissions
+
+commit 5c5d5de21b796950bf47277c7885d215a1783dc6
+Author: subversion <svn@deadlybossmods.com>
+Date:   Thu Nov 9 06:53:44 2017 +0100
+
+    Omega via svn r16848:
+    tweak scheduler a little to reduce chance of duplicate count
+
+commit ad78d3c12ab6c062fc232174c824f11a8dd87a7c
+Author: subversion <svn@deadlybossmods.com>
+Date:   Thu Nov 9 06:46:21 2017 +0100
+
+    Omega via svn r16847:
+    Another tweak
+
+commit c9c041fe0c93196a67e54d239e5113f278284932
+Author: subversion <svn@deadlybossmods.com>
+Date:   Thu Nov 9 06:43:09 2017 +0100
+
+    Omega via svn r16846:
+    fix one felclaws
+
+commit cea52fd4a72b0c19d1c75417c139f65224f25c83
+Author: subversion <svn@deadlybossmods.com>
+Date:   Wed Nov 8 20:52:35 2017 +0100
+
+    Omega via svn r16845:
+    Tweak message for non mythic erupting to say ?\226?\128?\156run to boss?\226?\128?\157 to handhold LFR some more
+
+commit 0757853be20e69cbc4c40ba1b7bc459b909c5007
+Author: subversion <svn@deadlybossmods.com>
+Date:   Wed Nov 8 10:40:51 2017 +0100
+
+    Omega via svn r16844:
+    Brawlers update for blind hero
+
+commit b9c7cd17ea47fd481fe2ac4213bc407e8c7a9661
+Author: subversion <svn@deadlybossmods.com>
+Date:   Wed Nov 8 06:05:22 2017 +0100
+
+    Omega via svn r16843:
+    more tweaks to orb timer
+
+commit b1205b3002407fc8dda3f5f8a7983d7aee29bced
+Author: subversion <svn@deadlybossmods.com>
+Date:   Tue Nov 7 19:40:21 2017 +0100
+
+    tandanu via svn r16842:
+    increment alpha version
+

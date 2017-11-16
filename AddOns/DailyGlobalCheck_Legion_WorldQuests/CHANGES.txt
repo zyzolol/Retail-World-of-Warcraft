@@ -1,0 +1,10 @@
+lightweight tag b2f0cdc237c8807623b7dcbb48d2bc97a790b9f7 v1.0.7a
+Author:	Saregon <n_rhygar@yahoo.it>
+Date:	Fri Oct 13 21:13:56 2017 +0200
+
+commit b2f0cdc237c8807623b7dcbb48d2bc97a790b9f7
+Author: Saregon <n_rhygar@yahoo.it>
+Date:   Fri Oct 13 21:13:56 2017 +0200
+
+    7.3 update
+

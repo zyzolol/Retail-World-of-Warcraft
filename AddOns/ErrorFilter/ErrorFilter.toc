@@ -1,0 +1,13 @@
+## Interface: 70300
+## Title: ErrorFilter
+## Notes: Filters the errors displayed in the UIErrorsFrame.
+## Version: v3.4
+## Author: iceeagle
+## OptionalDeps: Ace3, LibSink-2.0
+## SavedVariables: ErrorFilterDB
+## DefaultState: enabled
+
+## LoadManagers: AddonLoader
+## X-LoadOn-Always: Delayed
+
+ErrorFilter.xml
